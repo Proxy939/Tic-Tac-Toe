@@ -2,7 +2,7 @@
 
 A modern, high-performance Tic Tac Toe game built with **TypeScript**, **HTML5**, and **CSS3**. features a stunning Neon/Cyberpunk aesthetic, advanced AI opponents, and persistent stats.
 
-![Neon Tic Tac Toe Banner](https://via.placeholder.com/800x200/050614/00f3ff?text=NEON+TIC+TAC+TOE)
+![Neon Tic Tac Toe Banner](assets/game-screenshot.png)
 
 ## ✨ Features
 
