@@ -104,4 +104,4 @@ The **Hard Mode** AI is powered by the **Minimax Algorithm**:
 - This makes it mathematically impossible to beat the AI in Hard mode.
 
 ---
-*Created with ❤️ 
+*Created with ❤️*
